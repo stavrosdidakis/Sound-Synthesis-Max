@@ -1,4 +1,4 @@
-# Sound-Synthesis-Max
+# Sound Synthesis in MaxMSP
 
 A collection of patches for sound synthesis in MaxMSP.
 
